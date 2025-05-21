@@ -28,7 +28,22 @@ print("Here are the Operations",
       "\nSubtraction =", int(a) - int(b),
       "\nMultiplication =", int(a) * int(b),
       "\nDivision =", int(a) / int(b))
+
+## Task 2: Personalized Greeting
+
+### Description
+
+This script prompts the user to enter their first name and last name, then generates a personalized greeting message.
+
+### Usage
+
+1.  Run the script `task2.py`.
+2.  Enter your first name when prompted.
+3.  Enter your last name when prompted.
+4.  The script will display a personalized greeting.
+
 ### Code
+
 first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
 print("Hello", first_name + " " + last_name + "!", "Welcome to the python program.")
