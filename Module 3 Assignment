@@ -1,0 +1,17 @@
+# Odd or Even Number Checker 🧮
+
+This is a simple Python script that determines whether a user-inputted integer is an **odd** or **even** number.
+
+## 🚀 How It Works
+
+- The program asks the user to enter an integer.
+- It then checks the remainder when the number is divided by 2:
+  - If the remainder is `1`, the number is **odd**.
+  - If the remainder is `0`, the number is **even**.
+- The result is printed to the screen.
+
+## 💻 Example Usage
+
+```bash
+Enter the integer: 7
+7 is an odd number
